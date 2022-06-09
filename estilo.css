@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+td{
+    background-color: black;
+}
+body{
+    margin: 0;
+}
+
+table{
+    border-collapse: collapse;
+    box-sizing: border-box;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    width: 600px;
+}
+.preta{
+    background-color: black;
+    width: 600px;
+}
+#imagem1{
+    width: 100%;
+}
+#paragrafo1{
+    font-family: "Helvetica";
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #00A857;
+
+}
+
+.td2{
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+}
+#oifulano{
+    font-family: "Helvetica";
+    width: 89px;
+    height: 23px;
+    font-size: 18px;
+    margin-left: 40px;
+    margin-top: 50px;
+    color: white;
+}
+.td3{
+    background-color: black;
+}
+#paragrafo2{
+    text-align: justify;
+    font-family: "Helvetica";
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    margin-left: 40px;
+    margin-right: 100px;
+    margin-top: 50px;
+    color: white;
+}
+#img5{
+    margin-top: 50px;
+}
+#branco{
+    background-color: white;
+}
+img{
+    width: 100%;
+}
+#grande{
+    width: 600px;
+}
+#ultimo{
+    background-color: white;
+    text-align: justify;
+    font-family: "Helvetica";
+    color: #00A857;
+    margin-top: 100px;
+    padding: 20px;
+}
+#email{
+    margin-top: 20px;
+    background-color: #F6F6F6;
+    font-family: "Helvetica";
+    padding: 50px;
+    text-align: justify;
+}
+#link{
+    background-color: white;
+    color: #B2B2B2;
+}
+.icone{
+    width: 56px;
+    height: 56px;
+}
+
+#teste{
+    width: 100%;
+}
